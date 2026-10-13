@@ -4,11 +4,11 @@ Indian GST billing, accounting & inventory software for Windows (works offline; 
 
 ## ⬇ Download
 
-**[Download the latest installer](https://github.com/sahajdave94/gst-billing-download/releases/latest)** → under *Assets* click `GST Billing Setup x.y.z.exe`.
+**[Download the latest installer](https://github.com/sahajdave94/gst-billing-download/releases/latest)** → under *Assets* click `GST-Billing-Setup-x.y.z.exe`.
 
 ## Install
 
-1. Run `GST Billing Setup x.y.z.exe` (Windows 10 / 11, 64-bit).
+1. Run `GST-Billing-Setup-x.y.z.exe` (Windows 10 / 11, 64-bit).
 2. If Windows shows **"Windows protected your PC"**, click **More info → Run anyway**.
 3. Choose the folder → **Install**. A **GST Billing** icon appears on the desktop.
 4. First start: create your company, then your owner login. **Save the recovery key** shown on screen.
@@ -23,3 +23,11 @@ open **Licence** in the software, copy your **Computer ID**, and contact the sel
 GST invoices, quotations, credit / debit notes, e-way bill & e-invoice, GSTR-1 / 3B / 2B match,
 accounting (ledgers, P&L, balance sheet, outstanding), inventory with godowns, batches, barcodes / QR,
 phone & webcam scanning, parcel returns, document locker, recycle bin, auto-saved drafts, staff logins.
+
+## If Windows or the browser warns you
+The installer is not code-signed yet, so Windows may be careful:
+- Chrome / Edge says *not commonly downloaded*: click the **...** next to the download, then **Keep**, then **Keep anyway**.
+- *Windows protected your PC*: click **More info**, then **Run anyway**.
+
+## Updates
+From version 1.7.0 on, the app updates itself: a blue bar appears when a new version is out.
